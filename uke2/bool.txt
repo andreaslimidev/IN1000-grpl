@@ -1,0 +1,46 @@
+Hva evalueres de ulike uttrykkene til?
+True and True			    #
+True and False		        #
+
+True or True			    #
+True or False			    #
+False or False		        #
+
+not(True) 			        #
+not(False)			        #
+
+Ekstra (litt mer utfordrende):
+True and not(True) 		    #
+
+True and not(False) 	    #
+
+not(True) or not(False) 	#
+
+
+
+a == b      #
+a != b      #
+a > b       #
+a >= b      #
+a < b       #
+a <= b      #
+
+6>6         #
+6>=6        #
+6<6         #
+6<=6        #
+6==6        #
+6!=6        #
+
+
+
+
+# Hva blir feil her? 
+
+tall = int(input("Skriv inn et tall: "))
+ 
+if tall < 5:
+   print(Tallet er større enn 5)
+else:
+   print(Tallet er ikke større enn 5)
+
