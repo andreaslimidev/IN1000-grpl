@@ -143,6 +143,23 @@ def add(x, y):
     return x + y
 ```
 
+Hva blir variablen 'sum' her?
+```
+def add(x, y):
+    return x + y
+
+sum1 = add(3, add(2, 2))
+sum2 = add(add(1, 2), add(3, 3))
+```
+
+Hvilken type blir dette? 
+```
+num = 5
+str(num)
+```
+
+
+
 Return brukes til å både avslutte funksjonen, samt returnere en verdi.
 
 ### Eksempler
@@ -150,12 +167,26 @@ Return brukes til å både avslutte funksjonen, samt returnere en verdi.
 Skriv en prosedyre “storst_av_to” som tar imot to tall som parametre og skriver ut verdien til det største tallet:
 
 ```
+def max(n1, n2):
+    if n1 > n2:
+        print(n1)
+    else: 
+        print(n2)
+```
 
+Skriv om denne prosedyren til en funksjon:
+```
+def max(n1, n2):
+    if n1 > n2:
+        return n1
+    else: 
+        return n2
 ```
 
 Definer funksjonen find(lst, elem). Denne funksjonen tar inn en liste og returnerer True dersom elementet finnes i listen:
-
 ```
 def find(lst, elem):
-    # what to do??
+    for e in lst:
+        if e == elem:
+            return True
 ```
