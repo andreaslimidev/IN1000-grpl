@@ -1,3 +1,6 @@
-tall1 = 1
+x = True
 
-print("HEELLO".lower())
+def my_func(x):
+    print(x)
+
+my_func(False)
