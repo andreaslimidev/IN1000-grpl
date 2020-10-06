@@ -64,6 +64,7 @@ class Person:
         hoyereEnn(self, annen):
             om 'self' personen er høyere en den gitte 'annen' 
             return True, else False
+    """
 ```
 
 En klasse burde ha en konstruktør. Denne forteller hva som skal skje når et objekt instansieres. Denne defineres slik:
@@ -83,6 +84,21 @@ def __init__(self, navn, alder):
 **Oppgave**: gjør om klassen til å ta i bruk en konstruktør, slik at variabler som navn, høyde, etc, kan settes når objektet instansieres.
 
 **Oppgave**: instansier tre personer og legg disse i en liste. Lag deretter en funksjon som looper denne listen og printer ut navnet til hver person.
+
+Hva er alderen til p2 her?
+```
+class Person:
+    .
+    .
+    .
+
+p1 = Person("Thomas", 21)
+p2 = Person("Sigrunn", 20)
+
+p1 = p2
+p1.settAlder(19)
+
+```
 
 
 
