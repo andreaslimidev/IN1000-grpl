@@ -15,6 +15,7 @@
 * Objekt
 * Klassedefenisjon
 * Grensesnitt
+* Instansvariabel
 * Metode
 
 
