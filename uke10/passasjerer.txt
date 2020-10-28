@@ -1,0 +1,150 @@
+Betty;Jernbanetorget;Hoff
+Dora;Jernbanetorget;Skillebekk
+Rosendo;Jernbanetorget;Skarpsno
+Leah;Abbediengen;Jar
+Virginia;Lilleaker;Øraker
+Adalberto;Ullern;Jar
+Laurie;Dronningens Gate;Ullern
+Rodrigo;Skøyen;Bekkestua
+Paige;Ullern;Furulund
+Berry;Birkelunden;Dronningens Gate
+Raymon;Nationaltheatret;Solli
+Mavis;Grefsenveien;Schous Plass
+Rodger;Thune;Lilleaker
+Clifton;Sollerud;Bekkestua
+Marcelo;Skillebekk;Lilleaker
+Reynaldo;Jernbanetorget;Øvre Slottsgate
+Gerardo;Solli;Hoff
+Joyce;Lilleaker;Jar
+Sondra;Dronningens Gate;Nationaltheatret
+Alissa;Skarpsno;Thune
+Cyrus;Jernbanetorget;Skillebekk
+Garth;Ullern;Sollerud
+Hal;Sandaker Senter;Schous Plass
+Renee;Abbediengen;Lilleaker
+Alden;Abbediengen;Sollerud
+Cherie;Biermanns Gate;Skillebekk
+Alana;Ullern;Øraker
+Caitlin;Dronningens Gate;Abbediengen
+Lyman;Solli;Øraker
+Janna;Birkelunden;Furulund
+Mindy;Skillebekk;Lilleaker
+Deirdre;Dronningens Gate;Lilleaker
+Elvira;Lilleaker;Øraker
+Sonny;Nationaltheatret;Skarpsno
+Jefferson;Thune;Bekkestua
+Leopoldo;Abbediengen;Øraker
+Lenard;Jernbanetorget;Skarpsno
+Javier;Skillebekk;Sollerud
+Bernadette;Ullern;Lilleaker
+Oren;Solli;Øraker
+Gracie;Jernbanetorget;Furulund
+Monique;Skillebekk;Jar
+Jason;Øvre Slottsgate;Jar
+Jon;Jernbanetorget;Nationaltheatret
+Chris;Nationaltheatret;Skøyen
+Marci;Biermanns Gate;Lilleaker
+Wade;Schous Plass;Dronningens Gate
+Charity;Skøyen;Jar
+Shauna;Birkelunden;Jernbanetorget
+Percy;Hoff;Lilleaker
+Tameka;Hoff;Abbediengen
+Fermin;Lilletorget;Jernbanetorget
+Brent;Lilleaker;Jar
+Graciela;Lilletorget;Lilleaker
+Lamar;Hoff;Ullern
+Douglas;Solli;Lilleaker
+Art;Grefsen Stasjon;Jar
+Rick;Torshov;Nationaltheatret
+Danny;Solli;Thune
+Adrian;Sandaker Senter;Øvre Slottsgate
+Zachery;Skarpsno;Bekkestua
+Twila;Skillebekk;Jar
+Weldon;Torshov;Solli
+Lila;Lilleaker;Jar
+Lindsay;Øraker;Bekkestua
+Carmine;Solli;Sollerud
+Lon;Grefsen Stasjon;Jernbanetorget
+Audrey;Lilleaker;Øraker
+Tammie;Ullern;Furulund
+Bruce;Sollerud;Jar
+Sherry;Skarpsno;Sollerud
+Hester;Jernbanetorget;Skarpsno
+Jamel;Skillebekk;Bekkestua
+Natalie;Nationaltheatret;Jar
+Ruthie;Grefsenveien;Sandaker Senter
+Delmer;Sandaker Senter;Biermanns Gate
+Humberto;Hoff;Bekkestua
+Vicki;Jernbanetorget;Øvre Slottsgate
+Daphne;Grefsenveien;Lilleaker
+Gaylord;Øvre Slottsgate;Nationaltheatret
+Jamal;Sollerud;Lilleaker
+Marla;Torshov;Furulund
+Socorro;Dronningens Gate;Skøyen
+Althea;Jernbanetorget;Furulund
+Renato;Nationaltheatret;Solli
+Arthur;Furulund;Jar
+Edwin;Jernbanetorget;Skillebekk
+Gil;Skillebekk;Øraker
+Robin;Jernbanetorget;Skarpsno
+Eric;Furulund;Jar
+Willie;Skøyen;Jar
+Cora;Sollerud;Jar
+Sterling;Dronningens Gate;Ullern
+Cynthia;Skarpsno;Skøyen
+Leona;Solli;Skillebekk
+Audra;Hoff;Bekkestua
+Jolene;Schous Plass;Ullern
+Joel;Biermanns Gate;Skillebekk
+Warren;Ullern;Bekkestua
+Josephine;Øraker;Jar
+Stanford;Skøyen;Abbediengen
+Josiah;Sollerud;Jar
+Dominique;Nationaltheatret;Furulund
+Shanna;Solli;Ullern
+Carly;Furulund;Sollerud
+Louis;Solli;Skarpsno
+Darrel;Grefsenveien;Lilleaker
+Luciano;Øvre Slottsgate;Skøyen
+Claudine;Jernbanetorget;Lilleaker
+Luann;Skarpsno;Ullern
+Chrystal;Øvre Slottsgate;Furulund
+Nannie;Thune;Bekkestua
+Araceli;Øvre Slottsgate;Solli
+Cathryn;Lilletorget;Sollerud
+Terrance;Dronningens Gate;Jar
+Alan;Nationaltheatret;Øraker
+Helena;Skarpsno;Ullern
+Leanne;Øvre Slottsgate;Bekkestua
+Pamela;Torshov;Schous Plass
+Royal;Jar;Bekkestua
+Courtney;Lilleaker;Jar
+Marva;Skillebekk;Thune
+Amber;Storo;Skarpsno
+Vern;Solli;Sollerud
+Irma;Schous Plass;Lilletorget
+Norberto;Dronningens Gate;Hoff
+Jamey;Furulund;Bekkestua
+Lola;Hoff;Abbediengen
+Sheena;Lilleaker;Øraker
+Santo;Grefsenveien;Jernbanetorget
+Shon;Abbediengen;Lilleaker
+Victoria;Torshov;Biermanns Gate
+Nell;Skøyen;Lilleaker
+Antione;Skillebekk;Skøyen
+Jerold;Abbediengen;Furulund
+Domenic;Skarpsno;Abbediengen
+Kerri;Abbediengen;Sollerud
+Lorraine;Furulund;Øraker
+Francesca;Lilleaker;Jar
+Clifford;Skøyen;Øraker
+Lilia;Nationaltheatret;Ullern
+Lino;Storo;Biermanns Gate
+Phil;Nationaltheatret;Solli
+Colin;Øvre Slottsgate;Furulund
+Abel;Torshov;Dronningens Gate
+Gale;Skillebekk;Abbediengen
+Georgia;Schous Plass;Skarpsno
+Jonathon;Lilleaker;Bekkestua
+Alphonso;Hoff;Bekkestua
+Granville;Sandaker Senter;Birkelunden

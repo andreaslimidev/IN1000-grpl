@@ -1,0 +1,58 @@
+"""Gitt en klasse passasjer (vis til fil). Skriv klassen trikk:
+
+1. Konstruktøren tar inn et rutenr og antallRader. Alle trikker har plass
+til 5 personer på hver rad.
+
+2. Lag en privat metode som tar inn antallRader og lager trikken i form av
+et rutenett. Hvor hver rad har en rekke plasser (seter) per rad.
+Marker alle setene som ledige
+
+3. Lag en __str__ metode som gir en visuel representasjon av trikken:
+Slik at ett stopp ser slikt ut:
+
+|Mindy|Oren|Norberto|Lola|Gale|
+|Betty|ledig|Lon|Rodger|Cora|
+|Colin|ledig|ledig|ledig|Fermin|
+|Warren|ledig|ledig|ledig|Clifton|
+|Carmine|ledig|ledig|ledig|Eric|
+|Francesca|ledig|ledig|ledig|Sonny|
+|Graciela|ledig|ledig|ledig|Lino|
+|ledig|ledig|ledig|ledig|Janna|
+|Elvira|ledig|ledig|ledig|Daphne|
+|Araceli|ledig|Antione|Amber|Jerold|
+
+4. Lag en metode gaaPaaTrikk, som tar inn en passasjer som setter seg hvis
+det er en ledig plass på trikken. Returner true hvis det var et ledig sete
+og det er plass til passasjereren. Hvis det ikke er plass returner false
+
+5. Lag en metode gaaAvTrikk som tar inn en stasjon. Som finner alle passasjerer
+som skal av på gitt stasjon, og fjerner dem fra trikken. (Metoden hentAvstigning til
+klassen passasjer returner hvor passasjereren skal gå av). Bruk metoden gaarAvRiktig
+slik at passasjereren blir markert til å ha gått av på riktig stopp. Sett sete
+som ledig
+
+6. Utvid metoden gaaAvTrikk slik at hvis mer enn 4 av naboene til en passasjer
+stinker (bruk passasjer sin metode stinker). Så går denne passasjereren av pga dårlig
+lukt. 
+
+Naboene til Rodger (fra oppgave 3) er:
+
+|Norberto|Lola|Gale|
+|Lon|(Rodger)|Cora|
+|ledig|ledig|Fermin|
+
+Altså de som sitter rundt en personjon
+
+
+7. (Hvis dere ikke har tid til denne delen kan dere vise ferdig den verdig lagde filen)
+Lag et hovedprogram som oppretter en trikk med 10 rader. Leser inn en liste med
+stopp fra filen "trikk13.txt", og en som oppretter en liste med passasjerere.
+Lag så metoden kjorTrikk som tar inn de to listene og som kjører trikken
+så lenge brukeren vil. Til slutt skriv ut en statestikk som innholder:
+antall som skulle ta trikken
+antall som kom fram
+antall som kom på
+antall som lukter
+antall som ikke kom fram pga lukt
+
+"""
